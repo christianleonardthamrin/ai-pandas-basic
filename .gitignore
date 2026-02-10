@@ -1,0 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# IDE / Editor
+.idea/
+.vscode/
+253_30387_173-pycharm-support-libs/
+
+# OS files
+.DS_Store
