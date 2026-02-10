@@ -90,6 +90,29 @@ You can see all the requirements on the **requirements.txt** file or as shown be
 
 ---
 
+## ▶️ How to Run This Project
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/yourusername/week-2-pandas.git
+cd ai-pandas-basic
+```
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Open Notebook
+```bash
+jupyter lab
+```
+
+### Then Open
+```code
+eda.ipynb
+```
+---
+
 ## 👤 Author
 
 ### Christian Leonard
