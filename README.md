@@ -80,6 +80,16 @@ ai-pandas-basic/
   - Data types
 - Built understanding of the dataset structure before making changes
 
+### Day 2 — Data Cleaning
+- Identified missing values
+- Filled missing values:
+  - `Age` → median
+  - `Embarked` → mode
+- Dropped unused columns:
+  - `Cabin`
+  - `Ticket`
+- Verified data integrity after cleaning
+- Saved cleaned dataset for future use
 ---
 
 ## 🗒 Requirements
